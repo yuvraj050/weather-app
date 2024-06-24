@@ -11,5 +11,5 @@
 .app{
   min-height: 100vh;
   display: grid;
-  background: #e2d4ff;
+  background: url('https://i.ibb.co/Qnzhhn3/imgx1.jpg') no-repeat center center/cover;
 }
